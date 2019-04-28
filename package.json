@@ -1,0 +1,23 @@
+{
+  "name": "telegram-google-photos-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polvista/telegram-google-photos-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polvista/telegram-google-photos-bot/issues"
+  },
+  "homepage": "https://github.com/Polvista/telegram-google-photos-bot#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
